@@ -1,0 +1,195 @@
+
+/* navbar */
+.bg{
+    background-color: #fff8f3;
+    display: flex;
+}
+.pad{
+    padding: 30px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 30px;
+}
+.img1{
+    width: 65px;
+}
+.text1{
+    font-size: 17px;
+    font-style: bold;
+}
+/* class="text-xl font-bold */
+.button1 ,.button2{
+    border-style: none;
+    background: none;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.button3{
+    border-style: none;
+    background-color:  #fd6e0a;
+    color: white;
+    width: 80px;
+    height: 34px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 7px;
+}
+.bodyc{
+    padding-top: 30px;
+    display: flex;
+}
+.men {
+    position: relative;
+    top:25px;
+    left:290px;
+    z-index: 1;
+}
+
+.menbg {
+    position: absolute;
+    top:90px;
+    left: -140px;
+    z-index: -1;
+}
+
+.button4{
+    border-style: none;
+    background-color:  #fd6e0a;
+    color: white;
+    border-radius: 7px;
+    width: 130px;
+    height: 34px;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 14px;
+}
+.button5{
+    border-style: none;
+    background-color: white ;
+    color: #fd6e0a;
+    border: 1px solid #fd6e0a;
+    border-radius: 7px;
+    width: 100px;
+    height: 34px;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 14px;
+}
+.mary{
+    margin-top: 60px;
+    margin-left: 65px;
+
+}
+.box{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    line-height: 0px;
+}
+.box p{
+    font-size: 14px; 
+    color:#757575;
+}
+.box h5{
+    color:#757575;
+}
+.main2{
+    margin-top:100px;
+    margin-bottom: 100px;
+    margin-left: 230px;
+    margin-right: 230px;
+    background-color: #ffffff;
+
+}
+.main1{
+    border: 2px solid #fff8f3;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #fff8f3;
+}
+/* //what i do  */
+.do{
+    font-family: Open Sans;
+}
+.maindo{
+display: flex;
+margin-left: 150px;
+margin-right: 150px;
+
+}
+.do1{
+    padding: 20px;
+    margin: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px 4px  rgb(233, 233, 233);
+}
+.do1 img{    
+width: 28px;
+}
+.do1 p{  
+    font-size: 10px; 
+    color:#757575;
+    line-height: 16px;
+    }
+
+/* summery of resume */
+.sum{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: Open Sans;
+    margin: 40px;
+
+}
+.sum2{
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    margin-bottom: 50px;
+}
+.att h5{
+    margin-bottom: -6px;
+}
+.att p{
+    font-size: 12px;
+    color: #757575;
+    font-weight: bold;
+}
+.att1 p{
+    font-size: 10px;
+    color: #757575;
+    width: 250px;
+    line-height: 19px;
+}
+
+/* //lets connect */
+.foter{
+    margin-top: 80px;
+    padding: 50px;
+    display: flex;
+}
+.img2{
+    display: flex;
+    gap: 13px;
+    margin-top: 20px;
+}
+.foter1 p{
+    font-size: 11px;
+    color: #757575;
+    width: 350px;
+    line-height: 19px;
+}
+.foter2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
