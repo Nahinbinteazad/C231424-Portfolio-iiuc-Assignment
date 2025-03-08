@@ -44,14 +44,14 @@
 .men {
     position: relative;
     top:25px;
-    left:250px;
+    left:240px;
     z-index: 1;
 }
 
 .menbg {
     position: absolute;
     top:90px;
-    left: -150px;
+    left: -160px;
     z-index: -1;
 }
 
